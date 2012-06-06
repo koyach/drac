@@ -12,6 +12,12 @@ Features
 * Includes a simple animation that you can use when a player wins similar to the one in Solitaire for Windows.
 * Portable. Has been proven to run on [Nokia Maemo platform](http://maemo.org/downloads/product/OS2008/maemodrac/) (now part of MeeGo), [Sega Dreamcast](http://www.dcemu.co.uk/vbulletin/threads/221403-KlondikeDC), [Popcorn Hour](http://www.networkedmediatank.com/showthread.php?tid=39054), [BeOS](http://www.bebits.com/app/3799) and [Haiku](http://haikuware.com/directory/view-details/games/cards/tong-its).
 
+Screenshots
+========
+
+![Klondike setup] (https://dl.dropbox.com/u/9213093/klondike001.gif)
+![Win Animation] (https://dl.dropbox.com/u/9213093/klondike002.gif)
+
 Acknowledgments
 ========
 * Bitmap Font by [Marius](http://cone3d.gamedev.net/) (old dead link)
